@@ -190,11 +190,11 @@ $ whoami
 
 Abhiram Nellutla
 
-$ cat motivation.txt
+
 
 Build. Experiment. Learn. Repeat.
 
-$ ./future.sh
+
 
 → Keep learning
 → Keep building
