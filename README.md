@@ -1,228 +1,156 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h1 align="center">Hey 👋, I'm Abhiram Nellutla</h1>
+👋 Hey, I'm Abhiram Nellutla
+🤖 AIML Student • Machine Learning Enthusiast • Researcher • Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Machine+Learning+%7C+Deep+Learning+Enthusiast;Research+%7C+Experimentation+%7C+Innovation;Building+AI+Solutions+for+Real-World+Problems;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG" />
 
-<h3 align="center">
-AIML Student • Machine Learning Enthusiast • Researcher • Developer
-</h3>
+<img src="https://komarev.com/ghpvc/?username=AbhiramNellutla18&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/AbhiramNellutla18?label=Followers&style=for-the-badge&color=8A2BE2" alt="Followers" />
 
-<p align="center">
-  <a href="https://github.com/AbhiramNellutla18">
-    <img src="https://komarev.com/ghpvc/?username=AbhiramNellutla18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/AbhiramNellutla18?label=Followers&style=flat" alt="GitHub Followers"/>
-</p>
+</div>
 
----
+🧠 About Me
+🎓 B.Tech Artificial Intelligence & Machine Learning Student
+🤖 Machine Learning & Deep Learning Enthusiast
+🔬 Research-Oriented Developer
+🏆 Hackathon Participant & 2nd Place — VNR Convergence
 
-<!-- ===================== TYPING ===================== -->
+I enjoy turning interesting ideas into working AI/ML systems, experimenting with models, and learning through hands-on projects.
+╭──────────────────────────────────────────────────────────────╮
+│  🔭 Building        → AI / ML projects                       │
+│  🌱 Learning        → Deep Learning & research               │
+│  🧪 Exploring       → Synthetic data & privacy               │
+│  🏆 Participating   → Hackathons & competitions              │
+│  🎯 Goal            → Become a strong AI/ML Engineer         │
+╰──────────────────────────────────────────────────────────────╯
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Machine+Learning+%7C+Deep+Learning+Enthusiast;Research+%7C+Experimentation+%7C+Innovation;Building+AI+Solutions+for+Real-World+Problems;Always+Learning.+Always+Building." alt="Typing SVG"/>
-</p>
+🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css,js,pytorch,git,github,vscode&perline=11" />
 
----
 
-## 🧠 About Me
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student** interested in building intelligent systems and exploring how AI can be applied to real-world problems.
 
-```text
-🎓  B.Tech — Artificial Intelligence & Machine Learning
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-🤖  Machine Learning & Deep Learning
+</div>
 
-🔬  Research & Experimental Projects
-
-💻  Software Development
-
-🏆  Hackathons & Technical Competitions
-
-🌱  Constantly learning and building
-```
-
-### 🔭 What I'm interested in
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 📊 Synthetic Data Generation
-- 🔐 Privacy-Preserving AI
-- 🌍 AI for real-world applications
-- 🧪 AI/ML research and experimentation
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,sql" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### ⚙️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-> More projects will be added here as I continue building.
-
-### 🏥 Synthetic Patient Data Generation
-
-**Machine Learning • Synthetic Data • Healthcare • Data Privacy**
+🚀 Featured Project
+🏥 Synthetic Patient Data Generation
+Machine Learning • Synthetic Data • Healthcare • Privacy
 
 A project focused on generating realistic synthetic patient data while preserving important statistical characteristics of real-world healthcare datasets.
+Focus areas:
+Synthetic Data Machine Learning Data Analysis Healthcare Privacy
+📌 Repository: Coming soon
+🏆 Achievements
+<div align="center">
 
-**Areas explored:**
+🥈 2nd Place — VNR Convergence Hackathon
+🏆 Secured 2nd place at the VNR Convergence Hackathon.
+🚀 Participated in technical hackathons and competitions focused on solving real-world problems using technology and AI/ML.
+</div>
 
-`Synthetic Data` `Machine Learning` `Data Analysis` `Healthcare` `Privacy`
+🔬 Research Interests
+                    🤖 ARTIFICIAL INTELLIGENCE
+                              │
+             ┌────────────────┼────────────────┐
+             ▼                ▼                ▼
+       🧠 Deep Learning   👁️ Computer Vision   📊 ML
+             │                │                │
+             └────────────┬───┴────────────────┘
+                          ▼
+                  🧬 Synthetic Data
+                          │
+                          ▼
+                  🔐 Privacy-Preserving AI
+                          │
+                          ▼
+                   🌍 Real-World AI
+📊 GitHub Analytics
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbhiramNellutla18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-### 🔬 More AI/ML Projects Coming Soon...
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramNellutla18&layout=compact&theme=tokyonight&hide_border=true" />
 
-I'm currently working on projects involving:
+</div>
 
-- 🧠 Deep Learning
-- 🌍 AI for environmental applications
-- 👁️ Computer Vision
-- 📊 Generative & Synthetic Data
-- 🔬 Research-oriented ML systems
 
----
+<div align="center">
 
-## 🏆 Achievements
+<img src="https://streak-stats.demolab.com?user=AbhiramNellutla18&theme=tokyonight&hide_border=true" />
 
-### 🥈 2nd Place — VNR Convergence Hackathon
+</div>
 
-Secured **2nd place** at the VNR Convergence Hackathon by developing an AI/ML-oriented solution for a real-world problem.
+📈 Contribution Activity
+<div align="center">
 
-### 🚀 Hackathons
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramNellutla18&theme=tokyo-night&hide_border=true&area=true" />
 
-Participated in multiple technical hackathons and competitions, exploring AI/ML solutions across different domains.
+</div>
 
----
+🏅 GitHub Trophies
+<div align="center">
 
-## 🔬 Research Interests
+<img src="https://github-profile-trophy.vercel.app/?username=AbhiramNellutla18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
-```text
-Machine Learning
-      │
-      ├── Deep Learning
-      │
-      ├── Computer Vision
-      │
-      ├── Generative Models
-      │
-      ├── Synthetic Data
-      │
-      ├── Privacy-Preserving AI
-      │
-      └── Real-World AI Applications
-```
+</div>
 
-I'm particularly interested in **research-driven projects** where AI models are evaluated through experimentation rather than simply building an application around an existing API.
+⚡ Currently
+	Focus
+📚	Learning Machine Learning & Deep Learning
+🔬	Exploring AI research & experimental projects
+💻	Building AI/ML projects
+🏆	Participating in hackathons
+🎯	Growing toward AI/ML engineering & research
 
----
 
-## 📊 GitHub Analytics
+🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbhiramNellutla18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramNellutla18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- Enable the Snake workflow later; see the note below. -->
 
----
+<img src="https://raw.githubusercontent.com/AbhiramNellutla18/AbhiramNellutla18/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
-## 🔥 Contribution Streak
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhiramNellutla18&theme=tokyonight&hide_border=true" />
-</p>
+💻 Developer Mode
+$ whoami
 
----
+Abhiram Nellutla
 
-## 📈 Contribution Activity
+$ cat motivation.txt
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramNellutla18&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+Build.
+Experiment.
+Learn.
+Repeat.
 
----
+$ ./future.sh
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhiramNellutla18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
+→ Keep learning
+→ Keep building
+→ Keep researching
+→ Keep shipping
+📫 Connect With Me
+<div align="center">
 
 <a href="https://github.com/AbhiramNellutla18">
-<img src="https://img.shields.io/badge/GitHub-AbhiramNellutla18-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-AbhiramNellutla18-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:abhiramnellutla18@gmail.com">
-<img src="https://img.shields.io/badge/Email-abhiramnellutla18-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-abhiramnellutla18-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</p>
+</div>
 
----
+<div align="center">
 
-## ⚡ Currently
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7F00FF,100:FF00CC&height=120&section=footer" />
 
-```text
-📚 Learning
-   └── Machine Learning & Deep Learning
-
-🔬 Exploring
-   └── AI Research & Experimental Projects
-
-💻 Building
-   └── AI/ML Projects
-
-🏆 Participating
-   └── Hackathons & Technical Competitions
-
-🎯 Goal
-   └── Become a strong AI/ML Engineer & Researcher
-```
-
----
-
-<p align="center">
-  <i>“Build. Experiment. Learn. Repeat.”</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
-</p>
+✨ Build • Experiment • Learn • Repeat ✨
+</div>
