@@ -9,9 +9,10 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=AbhiramNellutla18&label=PROFILE%20VIEWS&color=00C2FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AbhiramNellutla18?label=FOLLOWERS&style=for-the-badge&color=7F00FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AbhiramNellutla18?label=TOTAL%20STARS&style=for-the-badge&color=FFD700" alt="Total stars" />
 </p>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="280" alt="Coding animation" />
+<img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="320" alt="Developer coding animation" />
 
 </div>
 
@@ -133,28 +134,25 @@ Also participated in technical hackathons and competitions focused on solving re
 📊 GitHub Analytics
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbhiramNellutla18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramNellutla18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-
+<p>
+  <img src="https://img.shields.io/github/followers/AbhiramNellutla18?label=Followers&style=for-the-badge&color=00C2FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AbhiramNellutla18?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="Total stars" />
+  <img src="https://komarev.com/ghpvc/?username=AbhiramNellutla18&label=Profile%20Views&color=7F00FF&style=for-the-badge" alt="Profile views" />
+</p>
 
 
 <img src="https://streak-stats.demolab.com?user=AbhiramNellutla18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-📈 Contribution Activity
+📈 GitHub Activity
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramNellutla18&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+Your native GitHub contribution calendar already appears on your profile, so this section avoids another external graph that can occasionally fail to load.
 
-</div>
-
-🏅 GitHub Trophies
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhiramNellutla18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+<img src="https://img.shields.io/badge/Keep%20Building-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="Keep building" />
+<img src="https://img.shields.io/badge/Keep%20Learning-7F00FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Keep learning" />
+<img src="https://img.shields.io/badge/Keep%20Shipping-FF00CC?style=for-the-badge&logo=rocket&logoColor=white" alt="Keep shipping" />
 
 </div>
 
@@ -205,8 +203,12 @@ $ ./future.sh
 🐍 Contribution Snake
 <div align="center">
 
-<p>🐍 Contribution snake will be enabled after the GitHub Actions workflow is added.</p>
+<img src="https://img.shields.io/badge/Snake-Coming%20Soon-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="Contribution snake coming soon" />
 
+
+
+
+The animated contribution snake will be enabled after the GitHub Actions workflow is added.
 </div>
 
 📫 Connect With Me
